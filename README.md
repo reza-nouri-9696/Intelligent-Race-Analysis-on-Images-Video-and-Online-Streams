@@ -50,15 +50,9 @@
 
 ## 🎥 نمونه ویدیو
 
-نمونه‌ای از عملکرد سیستم در تحلیل ویدیو و پردازش لحظه‌ای:
-
-<p align="center">
-  <img src="assets/sample_video_preview.gif" width="600"/>
-</p>
-
-🔗 مشاهده نسخه کامل ویدیو:
-[دانلود و مشاهده ویدیو نمونه](assets/sample_demo_video.mp4)
-.
+نمونه‌ای از عملکرد سیستم در تحلیل ویدیو و پردازش لحظه‌ای::
+[دانلود و مشاهده ویدیو نمونه1](https://drive.google.com/file/d/1EL9U5iaHD26LSPg_9B80U3wqkddj_ljp/view?usp=sharing)
+.[دانلود و مشاهده ویدیو نمونه2](https://drive.google.com/file/d/1JXPopZdB9y6GbphbtH0FW7HxBFozZiby/view?usp=sharing)
 
 برای دریافت به‌روزرسانی‌ها، این ریپازیتوری را دنبال کنید.
 
