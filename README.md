@@ -43,6 +43,7 @@
   <img src="assets/-2147483648_-210187 (1).jpg" width="400"/>
   <img src="assets/-2147483648_-210189 (1).jpg" width="400"/>
   <img src="assets/-2147483648_-210191 (1).jpg" width="400"/>
+ <img src="assets/Object_Remover_1762846785492.png" width="400"/>
 </p>
 
 ---
