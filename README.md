@@ -37,8 +37,12 @@
 در ادامه چند نمونه از نتایج سیستم در تحلیل تصاویر آورده شده است:
 
 <p align="center">
-  <img src="assets/sample_image_1.jpg" width="400"/>
-  <img src="assets/sample_image_2.jpg" width="400"/>
+  <img src="-2147483648_-210179 (1).jpg" width="400"/>
+  <img src="assets/-2147483648_-210183 (1).jpg" width="400"/>
+  <img src="-2147483648_-210185 (1).jpg" width="400"/>
+  <img src="-2147483648_-210187 (1).jpg" width="400"/>
+  <img src="-2147483648_-210189 (1).jpg" width="400"/>
+  <img src="-2147483648_-210191 (1).jpg" width="400"/>
 </p>
 
 ---
